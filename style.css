@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(13, 45, 92);
+}
+
+.titulo{
+    color: rgb(112, 158, 228);
+}
+
+.tabela{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid;
+}
+
+.inicio{
+    color: white;
+    background-color: rgb(1, 18, 43);
+    border-color: white;
+    border: 1px solid;
+}
+
+.time1{
+    color: white;
+    background-color: rgb(5, 42, 99);
+    text-align: center;
+    border: 1px solid;
+}
+
+.time2{
+    color: white;
+    background-color: rgb(5, 42, 99);
+    text-align: center;
+    border: 1px solid;
+}
+
+.time3{
+    color: white;
+    background-color: rgb(5, 42, 99);
+    text-align: center;
+    border: 1px solid;
+}
+
